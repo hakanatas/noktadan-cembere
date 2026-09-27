@@ -59,3 +59,11 @@ Notation follows Turkish textbook conventions: segment [AB], ray [AB, line AB wi
 - `src/ink/paper.js`: notebook paper. Grid squares are 5 mm, and 60 world units = 1 cm.
 
 The engine comes from *The Learning Ink* (github.com/hakanatas/the-learning-ink): a master timeline, `renderFrame(t)` as a pure function of time, and seeded randomness.
+
+## Lisans · License
+
+**TR —** Bu film ve kodu [Creative Commons Atıf-GayriTicari 4.0 Uluslararası (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansıyla paylaşılır. Ticari olmayan her amaçla (derste, okulda, eğitim materyalinde) kopyalayabilir, paylaşabilir ve değiştirebilirsiniz; ancak **kaynak göstermek zorunludur**: eser sahibinin adı ve bu deponun bağlantısı belirtilmeden kullanılamaz. Ticari kullanım (satış, ücretli ürün ya da yayın) için izin alınmalıdır.
+
+**EN —** This film and its code are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may copy, share and adapt them for non-commercial purposes, but **attribution is required**: they may not be used without crediting the author and linking to this repository. Commercial use requires permission.
+
+Atıf örneği / Required credit: *“Noktadan Çembere”, Hakan Ataş, Nokta'nın Filmleri — https://github.com/hakanatas/noktadan-cembere — CC BY-NC 4.0*
